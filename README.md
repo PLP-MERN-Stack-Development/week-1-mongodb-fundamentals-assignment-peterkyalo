@@ -27,7 +27,7 @@ node insert_books.js
 - You will see a list of inserted books in your terminal.
 
 ### 3. Run Your Own Queries
-- Create a `queries.js` file and write your MongoDB queries using the Node.js driver.
+- The `queries.js` file includes my MongoDB queries using the Node.js driver.
 - Run your queries with:
 ```bash
 node queries.js
