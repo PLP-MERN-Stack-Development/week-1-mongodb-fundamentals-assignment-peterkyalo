@@ -56,7 +56,7 @@ node queries.js
   ```
 
 ## Screenshot
-Add a screenshot of your MongoDB Compass or Atlas showing your `plp_bookstore` database, `books` collection, and sample data below:
+Added a screenshot of your MongoDB Compass  showing my `plp_bookstore` database, `books` collection, and sample data below:
 
 ![MongoDB Compass Screenshot](screenshot.png)
 
